@@ -25,7 +25,7 @@ VIEWER = eog
 
 # Set these for different experiments
 DATASET = exp2
-USE_ODOMETRY = 0
+USE_ODOMETRY = 1
 RANDOM_SEED  = 9999
 
 all: log2pgm Log2PGM.class
