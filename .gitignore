@@ -1,0 +1,8 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB workspace files
+*.mat
+
+# Windows 64-bit mex debug files from MATLAB compilation
+*.mexw64.pdb
